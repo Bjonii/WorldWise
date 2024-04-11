@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Istanbul",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2023-10-23T13:26:26.908Z",
+      "notes": "",
+      "position": {
+        "lat": "41.04803898077059",
+        "lng": "28.916015625000004"
+      },
+      "id": 98443215
+    },
+    {
+      "cityName": "Ireland",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2023-10-23T13:29:06.647Z",
+      "notes": "",
+      "position": {
+        "lat": "54.30505112886232",
+        "lng": "-10.217285156250002"
+      },
+      "id": 98443216
+    },
+    {
+      "cityName": "Altarejos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-15T15:37:27.400Z",
+      "notes": "",
+      "position": {
+        "lat": "39.97374093297588",
+        "lng": "-2.4609375000000004"
+      },
+      "id": 98443217
+    },
+    {
+      "cityName": "Oleiros",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-12-15T15:37:31.839Z",
+      "notes": "",
+      "position": {
+        "lat": "40.024277264239615",
+        "lng": "-7.910156250000001"
+      },
+      "id": 98443218
+    },
+    {
+      "cityName": "Baza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-15T15:37:34.791Z",
+      "notes": "",
+      "position": {
+        "lat": "37.50473449777335",
+        "lng": "-2.6367187500000004"
+      },
+      "id": 98443219
+    },
+    {
+      "cityName": "Navalmoral de Bejar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-15T15:37:44.513Z",
+      "notes": "o kije o njesh",
+      "position": {
+        "lat": "40.428555142341615",
+        "lng": "-5.77880859375"
+      },
+      "id": 98443220
+    }
+  ]
+}
